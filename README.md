@@ -1,5 +1,8 @@
 <h1 align="center">✨ Welcome to JIMIN's GITHUB ✨</h1>
 
+## 📬 Contact
+[![Gmail](https://img.shields.io/badge/jangjimin9766@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jangjimin9766@gmail.com)
+
 ## ✨ Tech Stack ✨
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -22,6 +25,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-## 📬 Contact
-[![Gmail](https://img.shields.io/badge/jangjimin9766@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jangjimin9766@gmail.com)
+
+
