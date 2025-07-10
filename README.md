@@ -25,7 +25,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&layout=compact&bg_color=00000000)
+
 
 
 
