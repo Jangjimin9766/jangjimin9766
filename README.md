@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Dami's Github ✨</h1>
+<h1 align="center">✨ Welcome to JIMIN's GITHUB ✨</h1>
 
 ## ✨ Tech Stack ✨
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
