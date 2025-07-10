@@ -1,5 +1,11 @@
-<h1 align="center">✨ Welcome to JIMIN's GITHUB ✨</h1>
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:254be4,100:25f0f4&height=240&text=Welcome%20to%20Jimim's%20GitHub!&animation=twinkling&fontColor=a0bede&fontSize=60" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    </div>
+    <div style="text-align: left;">
 ## 📬 Contact
 [![Gmail](https://img.shields.io/badge/jangjimin9766@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jangjimin9766@gmail.com)
 
