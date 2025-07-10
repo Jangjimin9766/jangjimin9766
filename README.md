@@ -3,8 +3,6 @@
     </div>
     <div style="text-align: left;"> 
     
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  
-    
 
 ## 📬 Contact
 [![Gmail](https://img.shields.io/badge/jangjimin9766@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jangjimin9766@gmail.com)
