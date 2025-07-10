@@ -17,6 +17,8 @@
 
 ## 📚 Studying
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0092BF?style=flat&logo=databricks&logoColor=white) <!-- 로고 대체 -->
 ![MCP](https://img.shields.io/badge/MCP-0078D4?style=flat) <!-- 임시 색상, 실제 MCP 로고 없음 -->
 ![Operating System](https://img.shields.io/badge/Operating_System-000000?style=flat&logo=linux&logoColor=white)
 
