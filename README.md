@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:254be4,100:25f0f4&height=240&text=Welcome%20to%20Jimin's%20GitHub!&animation=twinkling&fontColor=a0bede&fontSize=60" />
-</div>
 
 <div align="center"> 
   <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">👋 안녕하세요! 개발자 장지민입니다.</h3>
