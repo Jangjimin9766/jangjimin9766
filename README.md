@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">👋 안녕하세요! 개발자 장지민입니다.</h3>
+  <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">👋 안녕하세요! 장지민(Jimin)입니다.</h3>
   <p>🚀 새로운 기술을 배우고 적용하는 것을 즐깁니다.</p>
   <p>💡 사용자에게 가치있는 서비스를 만드는 데 관심이 많습니다.</p>
   <p>🌱 함께 성장하는 가치를 중요하게 생각합니다.</p>
@@ -7,6 +7,14 @@
 
 <hr/>
 
+<div align="center">
+  <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">🎓 학력 (Education)</h3>
+  <p>
+    <strong>한양대학교 ERICA</strong><br/>
+    ICT융합학부 & 컴퓨터학부 다중전공 (재학)
+  </p>
+</div>
+<hr/>
 <div align="center">
   <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">💻 기술 스택 (Tech Stack) 💻</h3>
   
@@ -40,6 +48,38 @@
 
 <hr/>
 
+<div align="center">
+  <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">🏆 Awards & Projects</h3>
+</div>
+
+<table align="center" width="80%">
+  <tr align="center">
+    <td width="50%"><strong>🏅 2025 Erica Software-Up! 제 7회 SW창업 메이커톤</strong></td>
+    <td width="50%"><strong>🏅 2024 HY-THON</strong></td>
+  </tr>
+  <tr align="center">
+    <td><strong>우수상 (한양대학교 총장상)</strong></td>
+    <td><strong>최우수상 (소프트웨어융합대학장상)</strong></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/RAVNUS-INC/KnowMe-Frontend.git"><strong>KnowMe Project</strong></a></td>
+    <td><a href="https://github.com/Jangjimin9766/hython-team3-front.git"><strong>HY-THON Project</strong></a></td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr align="center">
+    <td><strong>🏅 2024 관광데이터 활용 공모전</strong></td>
+    <td><strong>💻 HY-END 해커톤</strong></td>
+  </tr>
+  <tr align="center">
+    <td><strong>우수상 (한국관광공사사장상)</strong></td>
+    <td><strong>(프로젝트 참여)</strong></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://github.com/eoieiie/project-ISLAND.git"><strong>ISLAND Project</strong></a></td>
+    <td><a href="https://github.com/Nitge/HY-END-TEAM1-PINGU.git"><strong>PINGU Project</strong></a></td>
+  </tr>
+</table>
+<hr/>
 <div align="center">
   <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">🛠️ 사용 도구 (Tools) 🛠️</h3>
   <p>
