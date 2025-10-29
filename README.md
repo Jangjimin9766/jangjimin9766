@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </p>
   
@@ -56,6 +56,14 @@
 <hr/>
 
 <div align="center">
+  <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">🌱 공부 중인 분야 (Studying) 🌱</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Operating System-555555?style=for-the-badge&logo=linux&logoColor=white"/>
+  </p>
+</div>
+<hr/>
+
+<div align="center">
   <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">📊 GitHub 통계 (GitHub Stats) 📊</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="Jimin's GitHub stats" />
@@ -70,12 +78,8 @@
 <div align="center">
   <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">📫 연락처 (Contact) 📫</h3>
   <p>
-    <a href="mailto:jangjimin9766@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/jangjimin9766">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+    <a href="mailto:jangjimin9766@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/jangjimin9766"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
