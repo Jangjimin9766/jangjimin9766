@@ -1,31 +1,3 @@
-<style>
-  /* 기술 스택 테이블 스타일 */
-  .tech-stack-table {
-    width: 80%; /* 다른 테이블과 너비 통일 */
-    max-width: 800px; /* 너무 커지는 것 방지 */
-    margin: 20px auto; /* 위아래 여백 및 중앙 정렬 */
-    border-collapse: collapse; /* 깔끔한 테두리 */
-    text-align: left;
-  }
-  .tech-stack-table th,
-  .tech-stack-table td {
-    padding: 15px;
-    /* GitHub 다크모드와 유사한 느낌의 하단 테두리 */
-    border-bottom: 1px solid #30363d; 
-    vertical-align: middle; 
-  }
-  .tech-stack-table th {
-    width: 130px; /* 카테고리명 너비 고정 */
-    font-size: 1.1em; 
-    text-align: center; /* 카테고리명 중앙 정렬 */
-    color: #58a6ff; /* GitHub의 파란색 텍스트로 강조 */
-  }
-  /* 뱃지(이미지)들 사이의 간격 */
-  .tech-stack-table td img {
-    margin: 4px; 
-  }
-</style>
-
 <div align="center"> 
   <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">👋 안녕하세요! 장지민(Jimin)입니다.</h3>
   <p>🚀 새로운 기술을 배우고 적용하는 것을 즐깁니다.</p>
@@ -49,45 +21,33 @@
   <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">💻 기술 스택 (Tech Stack) 💻</h3>
 </div>
 
-<table class="tech-stack-table">
+<table align="center" width="80%">
+  <thead>
+    <tr align="center">
+      <th width="20%">Category</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
-      <th>Web</th>
-      <td>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      </td>
+      <td align="center"><strong>Web</strong></td>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
     </tr>
     <tr>
-      <th>Backend</th>
-      <td>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-      </td>
+      <td align="center"><strong>Backend</strong></td>
+      <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></td>
     </tr>
     <tr>
-      <th>Mobile</th>
-      <td>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-      </td>
+      <td align="center"><strong>Mobile</strong></td>
+      <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></td>
     </tr>
     <tr>
-      <th>AI / ML</th>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      </td>
+      <td align="center"><strong>AI / ML</strong></td>
+      <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></td>
     </tr>
     <tr>
-      <th>Database</th>
-      <td>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-      </td>
+      <td align="center"><strong>Database</strong></td>
+      <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
