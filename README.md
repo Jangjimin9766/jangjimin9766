@@ -113,8 +113,9 @@
 <hr/>
 
 <div align="center">
-  <h3>📊 GitHub Stats 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" height="180px" alt="Jimin's GitHub stats" />
+  <h3 style="border-bottom: 1px solid #254be4; display: inline-block; padding-bottom: 5px;">📊 GitHub Stats 📊</h3>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&count_private=true" height="180px" alt="Jimin's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&layout=compact&theme=material-palenight" height="180px" alt="Jimin's Top Languages" />
 </div>
 <hr/>
