@@ -102,28 +102,28 @@ const jimin = {
       <b>🏅 우수상</b><br/>
       <sub>한양대학교 총장상</sub><br/>
       <a href="https://github.com/RAVNUS-INC/KnowMe-Frontend.git"><b>SW창업 메이커톤</b></a><br/>
-      <sup>KnowMe - AI 소개팅 매칭</sup>
+      <sup>KnowMe - AI 진로&채용 맞춤 솔루션</sup>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/2024-254BE4?style=for-the-badge" /><br/>
       <b>🏅 최우수상</b><br/>
       <sub>소프트웨어융합대학장상</sub><br/>
       <a href="https://github.com/Jangjimin9766/hython-team3-front.git"><b>HY-THON</b></a><br/>
-      <sup>건강 관리 플랫폼</sup>
+      <sup>느린우체국 - 나만의 느린 감성일기</sup>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/2024-254BE4?style=for-the-badge" /><br/>
       <b>🏅 우수상</b><br/>
       <sub>한국관광공사사장상</sub><br/>
       <a href="https://github.com/eoieiie/project-ISLAND.git"><b>관광데이터 활용 공모전</b></a><br/>
-      <sup>ISLAND - 관광 플랫폼</sup>
+      <sup>ISLETRIP - 섬 여행 플랫폼</sup>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/2024-254BE4?style=for-the-badge" /><br/>
       <b>💻 참여</b><br/>
       <sub>HY-END 해커톤</sub><br/>
       <a href="https://github.com/Nitge/HY-END-TEAM1-PINGU.git"><b>PINGU Project</b></a><br/>
-      <sup>협업 프로젝트</sup>
+      <sup>PingU 위치기반 다이어리 플랫폼</sup>
     </td>
   </tr>
 </table>
