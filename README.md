@@ -1,11 +1,6 @@
 <div align="center">
-  
 # 👋 안녕하세요! 장지민(Jimin)입니다.
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=254BE4&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%92%A1+Problem+Solver;%E2%9C%A8+Innovation+Creator" alt="Typing SVG" />
-
-</div>
-
 ---
 
 ## 🌟 About Me
