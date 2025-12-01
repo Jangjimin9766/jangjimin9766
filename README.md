@@ -1,18 +1,29 @@
 <div align="center">
-  
-# 👋 안녕하세요! 장지민(Jimin)입니다.
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=254BE4&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Full-Stack+Developer;%F0%9F%A4%96+AI+%26+ML+Enthusiast;%F0%9F%92%A1+Problem+Solver;%E2%9C%A8+Innovation+Creator" alt="Typing SVG" />
-  
+
+# 👋 Hello, I'm Jimin Jang!
+
+<a href="https://github.com/jangjimin9766">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=254BE4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Building+Value+Together+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangjimin9766&count_bg=%2379C83D&title_bg=%23555555&icon=&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+<br/>
 
 ## 🌟 About Me
 
 ```typescript
 const jimin = {
+  name: "Jimin Jang (장지민)",
   location: "Seoul, South Korea 🇰🇷",
   education: "Hanyang University ERICA",
   major: ["ICT Convergence", "Computer Science"],
-  interests: ["AI/ML", "Full-Stack Development", "System Architecture"],
   currentFocus: "Building AI-powered services that create real value",
+  interests: ["AI/ML", "Full-Stack Development", "System Architecture"],
   techStack: {
     backend: ["Spring Boot", "FastAPI", "Python"],
     frontend: ["Flutter", "HTML/CSS/JS"],
