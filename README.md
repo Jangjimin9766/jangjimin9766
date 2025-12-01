@@ -21,13 +21,13 @@ const jimin = {
   name: "Jimin Jang (장지민)",
   location: "Seoul, South Korea 🇰🇷",
   education: "Hanyang University ERICA",
-  major: ["ICT Convergence", "Computer Science"],
-  currentFocus: "Building AI-powered services that create real value",
-  interests: ["AI/ML", "Full-Stack Development", "System Architecture"],
+  major: ["B.S. in ICT Convergence(HCI) & Computer Science(CS)"]
+  currentFocus: "사용자 경험에 기여하는 AI 기반 서비스 개발",
+  interests: ["AI/ML", "Back-end Development", "System Architecture", "Human-Computing Interaction"],
   techStack: {
     backend: ["Spring Boot", "FastAPI", "Python"],
-    frontend: ["Flutter", "HTML/CSS/JS"],
-    ai: ["Stable Diffusion", "OpenAI GPT", "PyTorch"],
+    frontend: ["Flutter", "HTML/CSS"],
+    ai: ["Stable Diffusion", "PyTorch"],
     cloud: ["AWS S3", "Docker", "Redis"]
   },
   motto: "함께 성장하는 가치를 중요하게 생각합니다 🌱"
@@ -51,7 +51,6 @@ const jimin = {
 ### 🎯 Language
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -75,7 +74,6 @@ const jimin = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7C3AED?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -92,6 +90,7 @@ const jimin = {
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
@@ -107,7 +106,7 @@ const jimin = {
 
 ---
 
-## 🚀 Featured Project: M:ine
+## 🚀 Featured Project: Mine
 
 ### 📱 AI 기반 초 개인화 매거진 플랫폼
 > **모든 관심사를 한눈에 나만의 매거진으로** 🎨
@@ -122,7 +121,7 @@ const jimin = {
 
 ### 📌 프로젝트 개요
 - **개발 기간**: 2025.11 ~ 현재 (진행 중)
-- **개발 규모**: Full-Stack 단독 개발 (Backend + AI Server)
+- **개발 규모**: Backend & AI System 총괄 개발 (Backend + AI Server)
 - **프로젝트 설명**: 사용자가 원하는 모든 주제를 아름다운 나만의 매거진으로 아카이빙할 수 있는 AI 에이전트 서비스
 
 ---
@@ -199,8 +198,8 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 ┌──────────────────────────────────────┐
 │      Spring Boot Backend             │
 │  • JWT 인증                           │
-│  • 비즈니스 로직                       │
-│  • 데이터 저장                         │
+│  • 비즈니스 로직                         │
+│  • 데이터 저장                          │
 └─┬────────┬─────────┬─────────────────┘
   │        │         │
   ▼        ▼         ▼
@@ -212,8 +211,8 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
   ▼
 ┌──────────────────────────────────────┐
 │     Python FastAPI AI Server         │
-│  • GPT 매거진 생성                    │
-│  • Stable Diffusion 이미지 생성       │
+│  • GPT 매거진 생성                      │
+│  • Stable Diffusion 이미지 생성         │
 └─┬────────┬─────────┬─────────────────┘
   │        │         │
   ▼        ▼         ▼
@@ -267,7 +266,7 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 </details>
 
 <details>
-<summary><b>2️⃣ Local Stable Diffusion으로 비용 $0 달성</b></summary>
+<summary><b>2️⃣ Local Stable Diffusion으로 비용 절감 </b></summary>
 
 **문제 상황**
 - Stability AI API는 유료 ($0.04/image)
@@ -287,7 +286,7 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 <summary><b>3️⃣ Multi-Source Search로 정확도 향상</b></summary>
 
 **문제 상황**
-- GPT만으로는 최신 정보 부족
+- GPT 모델 만으로는 최신 정보 부족
 - 환각(hallucination) 발생 가능성
 
 **해결 방법**
@@ -368,8 +367,8 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 - 🔄 **CI/CD** - 파이프라인 자동화
 - 🏗️ **System Design** - 대용량 트래픽 처리
 
-### 🎯 2025년 목표
-- 🚀 **M:ine 서비스 정식 런칭**
+### 🎯 2026년 목표
+- 🚀 **M:ine 서비스 정식 런칭 & 캡스톤 수상**
 - 🌐 **오픈소스 컨트리뷰션** 시작
 - ☁️ **AWS Certified Solutions Architect** 자격증 취득
 - 📈 **백엔드 대용량 트래픽 처리** 경험 쌓기
