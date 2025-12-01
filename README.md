@@ -28,13 +28,13 @@ const jimin = {
   name: "Jimin Jang (장지민)",
   location: "Seoul, South Korea 🇰🇷",
   education: "Hanyang University ERICA",
-  major: ["ICT Convergence", "Computer Science"],
-  currentFocus: "Building AI-powered services that create real value",
-  interests: ["AI/ML", "Full-Stack Development", "System Architecture"],
+  major: ["B.S. in ICT Convergence(HCI) & Computer Science(CS)"],
+  currentFocus: "사용자 경험에 기여하는 AI 기반 서비스 개발",
+  interests: ["AI/ML", "Back-end Development", "System Architecture"],
   techStack: {
     backend: ["Spring Boot", "FastAPI", "Python"],
-    frontend: ["Flutter", "HTML/CSS/JS"],
-    ai: ["Stable Diffusion", "OpenAI GPT", "PyTorch"],
+    frontend: ["Flutter", "HTML/CSS"],
+    ai: ["Stable Diffusion", "PyTorch"],
     cloud: ["AWS S3", "Docker", "Redis"]
   },
   motto: "함께 성장하는 가치를 중요하게 생각합니다 🌱"
@@ -112,18 +112,6 @@ const jimin = {
 | 💻 **2024** | 참여 | HY-END 해커톤 | [PingU](https://github.com/Nitge/HY-END-TEAM1-PINGU) - 위치기반 다이어리 |
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&theme=material-palenight&layout=compact&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jangjimin9766&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 
 ## 💪 Core Competencies
 - **Full-Stack Development Experience**: 백엔드뿐만 아니라 전체 흐름을 이해하는데 노력합니다.
@@ -137,6 +125,8 @@ const jimin = {
 - **System Architecture**: Gateway Pattern, Microservices, RESTful API Design
 - **Database Optimization**: JPA, Query Tuning, Redis Caching
 - **Cloud & DevOps**: AWS S3, Docker, GitHub Actions
+
+<div id="featured-project"></div>
 
 ## 🚀 Featured Project: Mine
 
@@ -392,6 +382,18 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 **📧 Email**: jangjimin9766@gmail.com  
 **📍 Location**: Seoul, South Korea 🇰🇷
 
+</div>
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&theme=material-palenight&layout=compact&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jangjimin9766&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
