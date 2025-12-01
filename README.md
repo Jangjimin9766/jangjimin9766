@@ -7,6 +7,16 @@
 </a>
 
 <br/>
+
+<a href="#featured-project">
+  <img src="https://img.shields.io/badge/🚀_View_Featured_Project-M:ine-254BE4?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangjimin9766&count_bg=%2379C83D&title_bg=%23555555&icon=&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 <br/>
@@ -18,13 +28,13 @@ const jimin = {
   name: "Jimin Jang (장지민)",
   location: "Seoul, South Korea 🇰🇷",
   education: "Hanyang University ERICA",
-  major: ["B.S. in ICT Convergence(HCI) & Computer Science(CS)"]
-  currentFocus: "사용자 경험에 기여하는 AI 기반 서비스 개발",
-  interests: ["AI/ML", "Back-end Development", "System Architecture", "Human-Computing Interaction"],
+  major: ["ICT Convergence", "Computer Science"],
+  currentFocus: "Building AI-powered services that create real value",
+  interests: ["AI/ML", "Full-Stack Development", "System Architecture"],
   techStack: {
     backend: ["Spring Boot", "FastAPI", "Python"],
-    frontend: ["Flutter", "HTML/CSS"],
-    ai: ["Stable Diffusion", "PyTorch"],
+    frontend: ["Flutter", "HTML/CSS/JS"],
+    ai: ["Stable Diffusion", "OpenAI GPT", "PyTorch"],
     cloud: ["AWS S3", "Docker", "Redis"]
   },
   motto: "함께 성장하는 가치를 중요하게 생각합니다 🌱"
@@ -353,19 +363,6 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 | **[ISLAND](https://github.com/eoieiie/project-ISLAND)** | 관광 데이터 활용 플랫폼 | React, Spring Boot | 🏅 관광공사사장상 |
 | **[느린우체국](https://github.com/Jangjimin9766/hython-team3-front)** | 나만의 느린 감성 일기 | Flutter, Node.js | 🏅 학장상 |
 | **[PingU](https://github.com/Nitge/HY-END-TEAM1-PINGU)** | 위치기반 다이어리 플랫폼 | Flutter, Spring Boot | 💻 참여 |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height="180px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&theme=material-palenight&layout=compact&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jangjimin9766&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
