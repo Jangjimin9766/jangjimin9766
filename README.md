@@ -116,7 +116,7 @@ const jimin = {
 
 <br/>
 
-**👉 [Core-server Repository (Java/Spring)](https://github.com/Jangjimin9766/Mine_server)** &nbsp;|&nbsp; **👉 [AI-Server Repository (Python)](https://github.com/Jangjimin9766/Mine-AI)**
+**👉 [Core-server Repository (Java/Spring)](https://github.com/Jangjimin9766/Mine_server)** &nbsp;|&nbsp; **👉 [AI-Server Repository (Python/Fastapi)](https://github.com/Jangjimin9766/Mine-AI)**
 
 </div>
 
