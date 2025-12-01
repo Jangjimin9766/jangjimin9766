@@ -114,11 +114,15 @@ const jimin = {
 [![AI Server](https://img.shields.io/badge/AI_Server-FastAPI-009688?style=for-the-badge&logo=fastapi)](https://github.com/Jangjimin9766/Mine-AI)
 ![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
 
+<br/>
+
+**👉 [Core-server Repository (Java/Spring)](https://github.com/Jangjimin9766/Mine_server)** &nbsp;|&nbsp; **👉 [AI-Server Repository (Python)](https://github.com/Jangjimin9766/Mine-AI)**
+
 </div>
 
 ### 📌 프로젝트 개요
 - **개발 기간**: 2025.11 ~ 현재 (진행 중)
-- **개발 규모**: Backend & AI System 총괄 개발 (Backend + AI Server)
+- **개발 규모**: Backend & AI System 총괄 (Infra/DevOps 포함)
 - **프로젝트 설명**: 사용자가 원하는 모든 주제를 아름다운 나만의 매거진으로 아카이빙할 수 있는 AI 에이전트 서비스
 
 ---
