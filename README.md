@@ -102,6 +102,31 @@ const jimin = {
 | 💻 **2024** | 참여 | HY-END 해커톤 | [PingU](https://github.com/Nitge/HY-END-TEAM1-PINGU) - 위치기반 다이어리 |
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jangjimin9766&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" height="180px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangjimin9766&theme=material-palenight&layout=compact&hide_border=true&langs_count=8" height="180px" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jangjimin9766&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💪 Core Competencies
+- **Full-Stack Development Experience**: 백엔드뿐만 아니라 전체 흐름을 이해하는데 노력합니다.
+- **AI/ML Integration**: AI 모델을 실제 서비스에 붙여서 가치를 만들어냅니다.
+- **System Architecture**: 복잡한 시스템을 고민하고 효율적으로 설계하려 노력합니다.
+- **Cloud & DevOps**: 내 코드를 직접 서버에 올리고 운영해보았습니다.
+
+### 👨🏻‍💻 Technical Skills
+- **Full-Stack Development**: Spring Boot, FastAPI, Flutter
+- **AI/ML Integration**: Stable Diffusion, PyTorch
+- **System Architecture**: Gateway Pattern, Microservices, RESTful API Design
+- **Database Optimization**: JPA, Query Tuning, Redis Caching
+- **Cloud & DevOps**: AWS S3, Docker, GitHub Actions
 
 ## 🚀 Featured Project: Mine
 
@@ -344,22 +369,6 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 
 ---
 
-## 💼 Core Competencies
-
-### 🎓 Academic Background
-- **한양대학교 ERICA** - ICT융합학부 & 컴퓨터학부 다중전공
-- **3개 공모전 수상** - 총장상, 학장상, 관광공사사장상
-- **4개 해커톤 참여** - 실전 프로젝트 경험 풍부
-
-### 💪 Technical Skills
-- **Full-Stack Development**: Spring Boot, FastAPI, Flutter
-- **AI/ML Integration**: OpenAI GPT, Stable Diffusion, PyTorch
-- **System Architecture**: Gateway Pattern, Microservices, RESTful API Design
-- **Database Optimization**: JPA, Query Tuning, Redis Caching
-- **Cloud & DevOps**: AWS S3, Docker, GitHub Actions
-
----
-
 ## 🌱 Currently Learning & Goals
 
 ### 📚 학습 중
@@ -391,8 +400,6 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 ---
 
 <div align="center">
-  
-### 💡 "새로운 기술을 배우고, 함께 성장하며, 가치있는 서비스를 만듭니다"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jangjimin9766&color=254be4&style=for-the-badge)
 
