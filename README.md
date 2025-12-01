@@ -128,7 +128,7 @@ const jimin = {
 
 <div id="featured-project"></div>
 
-## 🚀 Featured Project: Mine
+## 🚀 Featured Project: M:ine
 
 ### 📱 AI 기반 초 개인화 매거진 플랫폼
 > **모든 관심사를 한눈에 나만의 매거진으로** 🎨
