@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Jimin Jang!
 
 <a href="https://github.com/jangjimin9766">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=254BE4&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Building+Value+Together+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=254BE4&center=true&vCenter=true&width=550&lines=Pragmatic+Software+Engineer+%F0%9F%92%BB;Solving+Complex+Problems+with+Tech+%F0%9F%92%A1;End-to-End+System+Builder+%F0%9F%8F%97%EF%B8%8F;Continuously+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
