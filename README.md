@@ -100,10 +100,9 @@ const jimin = {
 ---
 
 ## 💪 Core Competencies
-- **Full-Stack Development Experience**: 백엔드뿐만 아니라 전체 흐름을 이해하는데 노력합니다.
 - **AI/ML Integration**: AI 모델을 실제 서비스에 붙여서 가치를 만들어냅니다.
 - **System Architecture**: 복잡한 시스템을 고민하고 효율적으로 설계하려 노력합니다.
-- **Cloud & DevOps**: 내 코드를 직접 서버에 올리고 운영해보았습니다.
+- **Cloud & DevOps**: 코드를 직접 서버에 올리고 운영해보았습니다.
 
 ### 👨🏻‍💻 Technical Skills
 - **Full-Stack Development**: Spring Boot, FastAPI, Flutter
@@ -149,20 +148,6 @@ const jimin = {
 
 ---
 
-## 🌱 Currently Learning & Goals
-
-### 📚 학습 중
-- 🐧 **Operating System** - 운영체제 내부 동작 원리
-- ☸️ **Kubernetes** - 컨테이너 오케스트레이션
-- 🔄 **CI/CD** - 파이프라인 자동화
-- 🏗️ **System Design** - 대용량 트래픽 처리
-
-### 🎯 2026년 목표
-- 🚀 **M:ine 서비스 정식 런칭 & 캡스톤 수상**
-- 📈 **백엔드 대용량 트래픽 처리** 경험 쌓기
-
----
-
 ## 📫 Contact
 
 <div align="center">
@@ -185,6 +170,21 @@ const jimin = {
 - 🚀 새로운 기술을 배우고 실전에 적용하는 것을 즐깁니다
 
 ---
+
+## 🌱 Currently Learning & Goals
+
+### 📚 학습 중
+- 🐧 **Operating System** - 운영체제 내부 동작 원리
+- ☸️ **Kubernetes** - 컨테이너 오케스트레이션
+- 🔄 **CI/CD** - 파이프라인 자동화
+- 🏗️ **System Design** - 대용량 트래픽 처리
+
+### 🎯 2026년 목표
+- 🚀 **M:ine 서비스 정식 런칭 & 캡스톤 수상**
+- 📈 **백엔드 대용량 트래픽 처리** 경험 쌓기
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
