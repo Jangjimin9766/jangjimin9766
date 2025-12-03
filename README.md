@@ -75,7 +75,7 @@ const jimin = {
   name: "Jimin Jang (장지민)",
   location: "Seoul, South Korea 🇰🇷",
   education: "Hanyang University ERICA",
-  major: ["B.S. in ICT Convergence(HCI) & Computer Science(CS)"],
+  major: ["ICT Convergence(HCI) & Computer Science(CS)"],
   currentFocus: "사용자 경험에 기여하는 AI 기반 서비스 개발",
   interests: ["AI/ML", "Back-end Development", "System Architecture"],
   techStack: {
