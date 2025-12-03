@@ -137,17 +137,6 @@ const jimin = {
 
 ---
 
-## 🎯 Other Projects
-
-| 프로젝트 | 설명 | 기술 스택 | 수상 |
-|:---:|:---|:---|:---:|
-| **[KnowMe](https://github.com/RAVNUS-INC/KnowMe-Frontend)** | AI 기반 소개팅 매칭 서비스 | Flutter, Spring Boot | 🏅 총장상 |
-| **[ISLE-TRIP](https://github.com/Jangjimin9766/island-trip-app)** | 관광 데이터 활용 플랫폼 | React, Spring Boot | 🏅 관광공사사장상 |
-| **[느린우체국](https://github.com/Jangjimin9766/hython-team3-front)** | 나만의 느린 감성 일기 | Flutter, Node.js | 🏅 학장상 |
-| **[PingU](https://github.com/Nitge/HY-END-TEAM1-PINGU)** | 위치기반 다이어리 플랫폼 | Flutter, Spring Boot | 💻 참여 |
-
----
-
 ## 📫 Contact
 
 <div align="center">
@@ -161,28 +150,11 @@ const jimin = {
 </div>
 
 ---
-## 🎓 Education
+## 📆 history
 
 **한양대학교 ERICA** (2023.02 ~ Present)
 - 📚 **ICT융합학부 & 컴퓨터학부 다중전공**
-- 🏆 **3개 공모전 수상** (총장상, 학장상, 관광공사사장상)
-- 💻 **4개 해커톤 참여** (메이커톤, HY-THON, HY-END 등)
-- 🚀 새로운 기술을 배우고 실전에 적용하는 것을 즐깁니다
-
----
-
-## 🌱 Currently Learning & Goals
-
-### 📚 학습 중
-- 🐧 **Operating System** - 운영체제 내부 동작 원리
-- ☸️ **Kubernetes** - 컨테이너 오케스트레이션
-- 🔄 **CI/CD** - 파이프라인 자동화
-- 🏗️ **System Design** - 대용량 트래픽 처리
-
-### 🎯 2026년 목표
-- 🚀 **M:ine 서비스 정식 런칭 & 캡스톤 수상**
-- 📈 **백엔드 대용량 트래픽 처리** 경험 쌓기
-
+- 🏆 **3개 공모전 수상**
 ---
 
 ## 📊 GitHub Stats
