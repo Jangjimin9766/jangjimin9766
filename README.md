@@ -138,46 +138,6 @@ const jimin = {
 
 ---
 
-### 💡 핵심 성과 & 기술적 하이라이트
-
-#### 🏗️ **Architecture Excellence**
-
-**✅ Gateway Pattern 설계**
-- Spring Boot ↔ FastAPI 완전 분리 아키텍처
-- **Python AI Server**: AI 생성만 담당 (Stateless)
-- **Spring Backend**: 저장/인증/비즈니스 로직 전담
-- **결과**: 유지보수성 향상, 독립적 스케일링 가능
-
-**✅ 비용 최적화 전략**
-- Local Stable Diffusion XL (Mac M4 MPS 가속)
-- **무제한 무료** 이미지 생성 (외부 API 비용 $0)
-- FP16 최적화로 30 steps 완료
-
----
-
-#### 🚀 **Technical Highlights**
-
-**✅ Multi-Source Search로 정확도 향상**
-- **Tavily Search API**: 실시간 웹 검색
-- **Jina AI Reader**: 웹페이지 깊이 읽기 & 분석
-- **결과**: GPT 환각(hallucination) 방지, 최신 정보 반영
-
-**✅ Chat-based Editing System**
-```typescript
-// 예시: "첫 번째 섹션을 더 감성적으로 바꿔줘"
-User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
-```
-- 자연어로 매거진 수정 가능
-- GPT가 사용자 의도를 정확히 파악
-
-**✅ 성능 최적화**
-- **N+1 쿼리 방지**: `@EntityGraph`, Fetch Join 활용
-- **Redis 캐싱**: Refresh Token, 블랙리스트 관리
-- **@Formula 가상 컬럼**: 팔로워/팔로잉/매거진 수 집계 쿼리 최적화
-- **결과**: 단일 쿼리로 조회, 응답 속도 대폭 개선
-
----
-
 ### 🛠️ 기술 스택
 
 **Backend (Spring Boot)**
@@ -236,101 +196,6 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 
 ---
 
-### ✨ 주요 기능
-
-| 기능 | 설명 | 핵심 기술 |
-|:---:|:---|:---|
-| 🎨 **AI 매거진 생성** | 모든 주제 → 프리미엄 매거진 콘텐츠 | OpenAI GPT + Tavily + Jina AI |
-| 🖼️ **무드보드 생성** | 사용자 취향 기반 배경 이미지 | Stable Diffusion XL (Local, MPS) |
-| 💬 **AI 채팅 편집** | 자연어로 매거진 수정 | GPT Intent Analysis |
-| 🔐 **JWT 인증** | Access + Refresh Token | Spring Security + Redis |
-| 👥 **소셜 기능** | 팔로우/좋아요/공유 링크 | JPA + SecureRandom Token |
-| 🔍 **검색 시스템** | 키워드 기반 매거진 검색 | MySQL Full-Text Search |
-
----
-
-### 📊 성능 & 품질 지표
-
-- ✅ **테스트 커버리지**: 11개 테스트 케이스 (Controller + Service Layer)
-- ✅ **보안**: BCrypt 암호화, SQL Injection 방지, CORS 설정
-- ✅ **API 문서**: Swagger UI 자동 생성 및 실시간 테스트 가능
-- ✅ **코드 품질**: Lombok 활용, 계층 분리 (Controller-Service-Repository), DI 패턴
-
----
-
-### 🔍 기술적 도전 과제 해결
-
-<details>
-<summary><b>1️⃣ Gateway Pattern 설계로 책임 명확히 분리</b></summary>
-
-**문제 상황**
-- Spring에서 AI 로직까지 처리하면 코드 복잡도 증가
-- 확장성 부족, 유지보수 어려움
-
-**해결 방법**
-- Python FastAPI를 별도 AI 서버로 완전 분리
-- Spring: 비즈니스 로직, Python: AI 생성만 담당
-
-**결과**
-- 각 서버의 책임이 명확해져 유지보수성 향상
-- 독립적 배포 및 스케일링 가능
-
-</details>
-
-<details>
-<summary><b>2️⃣ Local Stable Diffusion으로 비용 절감 </b></summary>
-
-**문제 상황**
-- Stability AI API는 유료 ($0.04/image)
-- 지속적인 테스트 및 개발에 비용 부담
-
-**해결 방법**
-- Mac M4 MPS 가속으로 로컬 SDXL 실행
-- FP16 최적화로 메모리 사용량 절감
-
-**결과**
-- **무제한 무료** 이미지 생성
-- 30 steps 기준 약 15-20초 소요 (충분히 실용적)
-
-</details>
-
-<details>
-<summary><b>3️⃣ Multi-Source Search로 정확도 향상</b></summary>
-
-**문제 상황**
-- GPT 모델 만으로는 최신 정보 부족
-- 환각(hallucination) 발생 가능성
-
-**해결 방법**
-- Tavily API: 실시간 웹 검색
-- Jina AI: 웹페이지 내용 깊이 분석
-
-**결과**
-- 실시간 웹 정보 반영
-- 구체적이고 정확한 콘텐츠 생성
-
-</details>
-
-<details>
-<summary><b>4️⃣ N+1 쿼리 문제 완벽 해결</b></summary>
-
-**문제 상황**
-- 매거진 조회 시 좋아요/팔로우 정보로 N+1 쿼리 발생
-- 성능 저하
-
-**해결 방법**
-- `@EntityGraph`로 연관 엔티티 한 번에 로드
-- Fetch Join 활용
-- `@Formula`로 집계 쿼리 가상 컬럼화
-
-**결과**
-- 여러 쿼리 → **단일 쿼리**로 조회
-- 응답 속도 대폭 개선
-
-</details>
-
----
-
 ## 🎯 Other Projects
 
 | 프로젝트 | 설명 | 기술 스택 | 수상 |
@@ -353,7 +218,6 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 ### 🎯 2026년 목표
 - 🚀 **M:ine 서비스 정식 런칭 & 캡스톤 수상**
 - 📈 **백엔드 대용량 트래픽 처리** 경험 쌓기
-- 
 
 ---
 
