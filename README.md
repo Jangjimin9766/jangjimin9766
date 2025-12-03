@@ -106,7 +106,7 @@ const jimin = {
 |:---:|:---:|:---|:---|
 | 🏅 **2025** | **우수상** (한양대 총장상) | SW창업 메이커톤 | [KnowMe](https://github.com/RAVNUS-INC/KnowMe-Frontend) - AI 진로&채용 맞춤 솔루션 |
 | 🏅 **2024** | **최우수상** (SW융합대학장상) | HY-THON | [느린우체국](https://github.com/Jangjimin9766/hython-team3-front) - 나만의 느린 감성일기 |
-| 🏅 **2024** | **우수상** (관광공사사장상) | 관광데이터 활용 공모전 | [ISLETRIP](https://github.com/eoieiie/project-ISLAND) - 섬 여행 플랫폼 |
+| 🏅 **2024** | **우수상** (관광공사사장상) | 관광데이터 활용 공모전 | [ISLETRIP](https://github.com/Jangjimin9766/island-trip-app) - 섬 여행 플랫폼 |
 | 💻 **2024** | 참여 | HY-END 해커톤 | [PingU](https://github.com/Nitge/HY-END-TEAM1-PINGU) - 위치기반 다이어리 |
 
 ---
@@ -348,7 +348,7 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 | 프로젝트 | 설명 | 기술 스택 | 수상 |
 |:---:|:---|:---|:---:|
 | **[KnowMe](https://github.com/RAVNUS-INC/KnowMe-Frontend)** | AI 기반 소개팅 매칭 서비스 | Flutter, Spring Boot | 🏅 총장상 |
-| **[ISLAND](https://github.com/eoieiie/project-ISLAND)** | 관광 데이터 활용 플랫폼 | React, Spring Boot | 🏅 관광공사사장상 |
+| **[ISLE-TRIP](https://github.com/Jangjimin9766/island-trip-app)** | 관광 데이터 활용 플랫폼 | React, Spring Boot | 🏅 관광공사사장상 |
 | **[느린우체국](https://github.com/Jangjimin9766/hython-team3-front)** | 나만의 느린 감성 일기 | Flutter, Node.js | 🏅 학장상 |
 | **[PingU](https://github.com/Nitge/HY-END-TEAM1-PINGU)** | 위치기반 다이어리 플랫폼 | Flutter, Spring Boot | 💻 참여 |
 
@@ -364,9 +364,8 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 
 ### 🎯 2026년 목표
 - 🚀 **M:ine 서비스 정식 런칭 & 캡스톤 수상**
-- 🌐 **오픈소스 컨트리뷰션** 시작
-- ☁️ **AWS Certified Solutions Architect** 자격증 취득
 - 📈 **백엔드 대용량 트래픽 처리** 경험 쌓기
+- 
 
 ---
 
