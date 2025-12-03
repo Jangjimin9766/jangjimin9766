@@ -99,20 +99,6 @@ const jimin = {
 
 ---
 
-## 💪 Core Competencies
-- **AI/ML Integration**: AI 모델을 실제 서비스에 붙여서 가치를 만들어냅니다.
-- **System Architecture**: 복잡한 시스템을 고민하고 효율적으로 설계하려 노력합니다.
-- **Cloud & DevOps**: 코드를 직접 서버에 올리고 운영해보았습니다.
-
-### 👨🏻‍💻 Technical Skills
-- **Full-Stack Development**: Spring Boot, FastAPI, Flutter
-- **AI/ML Integration**: Stable Diffusion, PyTorch
-- **System Architecture**: Gateway Pattern, Microservices, RESTful API Design
-- **Database Optimization**: JPA, Query Tuning, Redis Caching
-- **Cloud & DevOps**: AWS S3, Docker, GitHub Actions
-
-<div id="featured-project"></div>
-
 ## 🚀 Featured Project: M:ine
 
 ### 📱 AI 기반 초 개인화 매거진 플랫폼
@@ -156,6 +142,20 @@ const jimin = {
 - 📚 **ICT융합학부 & 컴퓨터학부 다중전공**
 - 🏆 **3개 공모전 수상**
 ---
+
+### 💪 Core Competencies
+- **AI/ML Integration**: AI 모델을 실제 서비스에 붙여서 가치를 만들어냅니다.
+- **System Architecture**: 복잡한 시스템을 고민하고 효율적으로 설계하려 노력합니다.
+- **Cloud & DevOps**: 코드를 직접 서버에 올리고 운영해보았습니다.
+
+### 👨🏻‍💻 Technical Skills
+- **Full-Stack Development**: Spring Boot, FastAPI, Flutter
+- **AI/ML Integration**: Stable Diffusion, PyTorch
+- **System Architecture**: Gateway Pattern, Microservices, RESTful API Design
+- **Database Optimization**: JPA, Query Tuning, Redis Caching
+- **Cloud & DevOps**: AWS S3, Docker, GitHub Actions
+
+<div id="featured-project"></div>
 
 ## 📊 GitHub Stats
 
