@@ -14,41 +14,6 @@
 
 <br/>
 <br/>
-
-</div>
-
-<br/>
-
-## 🌟 About Me
-
-```typescript
-const jimin = {
-  name: "Jimin Jang (장지민)",
-  location: "Seoul, South Korea 🇰🇷",
-  education: "Hanyang University ERICA",
-  major: ["B.S. in ICT Convergence(HCI) & Computer Science(CS)"],
-  currentFocus: "사용자 경험에 기여하는 AI 기반 서비스 개발",
-  interests: ["AI/ML", "Back-end Development", "System Architecture"],
-  techStack: {
-    backend: ["Spring Boot", "FastAPI", "Python"],
-    frontend: ["Flutter", "HTML/CSS"],
-    ai: ["Stable Diffusion", "PyTorch"],
-    cloud: ["AWS S3", "Docker", "Redis"]
-  },
-  motto: "함께 성장하는 가치를 중요하게 생각합니다 🌱"
-};
-```
-
----
-
-## 🎓 Education
-
-**한양대학교 ERICA** (2023.02 ~ Present)
-- 📚 **ICT융합학부 & 컴퓨터학부 다중전공**
-- 🏆 **3개 공모전 수상** (총장상, 학장상, 관광공사사장상)
-- 💻 **4개 해커톤 참여** (메이커톤, HY-THON, HY-END 등)
-- 🚀 새로운 기술을 배우고 실전에 적용하는 것을 즐깁니다
-
 ---
 
 ## 💻 Tech Stack
@@ -99,6 +64,30 @@ const jimin = {
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
+
+</div>
+
+<br/>
+
+## 🌟 About Me
+
+```typescript
+const jimin = {
+  name: "Jimin Jang (장지민)",
+  location: "Seoul, South Korea 🇰🇷",
+  education: "Hanyang University ERICA",
+  major: ["B.S. in ICT Convergence(HCI) & Computer Science(CS)"],
+  currentFocus: "사용자 경험에 기여하는 AI 기반 서비스 개발",
+  interests: ["AI/ML", "Back-end Development", "System Architecture"],
+  techStack: {
+    backend: ["Spring Boot", "FastAPI", "Python"],
+    frontend: ["Flutter", "HTML/CSS"],
+    ai: ["Stable Diffusion", "PyTorch"],
+    cloud: ["AWS S3", "Docker", "Redis"]
+  },
+  motto: "함께 성장하는 가치를 중요하게 생각합니다 🌱"
+};
+```
 
 ## 🏆 Awards & Achievements
 
@@ -380,6 +369,15 @@ User → AI가 의도 분석 → 해당 섹션만 자동 재생성 → 저장
 **📍 Location**: Seoul, South Korea 🇰🇷
 
 </div>
+
+---
+## 🎓 Education
+
+**한양대학교 ERICA** (2023.02 ~ Present)
+- 📚 **ICT융합학부 & 컴퓨터학부 다중전공**
+- 🏆 **3개 공모전 수상** (총장상, 학장상, 관광공사사장상)
+- 💻 **4개 해커톤 참여** (메이커톤, HY-THON, HY-END 등)
+- 🚀 새로운 기술을 배우고 실전에 적용하는 것을 즐깁니다
 
 ---
 ## 📊 GitHub Stats
