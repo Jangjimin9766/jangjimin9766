@@ -1,14 +1,3 @@
-<div align="center">
-
-# 👋 Hello, I'm Jimin Jang!
-
-<a href="https://github.com/jangjimin9766">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=254BE4&center=true&vCenter=true&width=550&lines=Pragmatic+Software+Engineer+%F0%9F%92%BB;Solving+Complex+Problems+with+Tech+%F0%9F%92%A1;End-to-End+System+Builder+%F0%9F%8F%97%EF%B8%8F;Continuously+Learning+%26+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
-
-
-<br/>
-
 ## 💻 Tech Stack
 
 ### 🎯 Language
@@ -78,7 +67,7 @@ const jimin = {
     ai: ["Stable Diffusion", "PyTorch"],
     cloud: ["AWS S3", "Docker", "Redis"]
   },
-  motto: "함께 성장하는 가치를 중요하게 생각합니다 🌱"
+  motto: "함께 성장하는 가치를 중요하게 생각합니다"
 };
 ```
 
