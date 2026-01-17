@@ -33,6 +33,10 @@
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge&logoColor=white)
+
+### 📊 Monitoring
+![Better Stack](https://img.shields.io/badge/Better_Stack-000000?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
